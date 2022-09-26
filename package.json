@@ -1,0 +1,23 @@
+{
+  "name": "gongseek-types",
+  "version": "0.1.0",
+  "description": "공식 타입 유틸입니다",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liswktjs/gongseek-types.git"
+  },
+  "author": "sally & jasmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liswktjs/gongseek-types/issues"
+  },
+  "homepage": "https://github.com/liswktjs/gongseek-types#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3",
+    "tsd": "^0.24.1"
+  }
+}
