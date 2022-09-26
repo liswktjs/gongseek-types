@@ -1,1 +1,1 @@
-type gongseek = "A+";
+type gongseekType = "A+";
