@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/liswktjs/gongseek-types#readme",
   "devDependencies": {
-    "typescript": "^4.8.3",
-    "tsd": "^0.24.1"
-  }
+    "tsd": "^0.24.1",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {}
 }
