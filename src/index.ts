@@ -1,1 +1,1 @@
-type gongseekType = "A+";
+export type gongseekType = "A+";
