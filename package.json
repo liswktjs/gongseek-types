@@ -2,7 +2,8 @@
   "name": "gongseek-types",
   "version": "0.1.1",
   "description": "공식 타입 유틸입니다",
-  "main": "index.ts",
+  "main": "lib/index.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "rm -rf lib && mkdir lib && tsc"
