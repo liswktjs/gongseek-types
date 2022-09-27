@@ -20,9 +20,11 @@
   "homepage": "https://github.com/liswktjs/gongseek-types#readme",
   "devDependencies": {
     "@types/react": "^18.0.21",
+    "tsd": "^0.24.1",
     "typescript": "^4.8.3"
   },
   "dependencies": {
     "gongseek-types": "^0.1.6"
-  }
+  },
+  "sideEffects": false
 }
