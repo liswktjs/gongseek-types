@@ -1,15 +1,8 @@
 import * as React from "react";
-import {
-  Month,
-  Day,
-  DateSuffix,
-} from "./util";
+import { Month, Day } from "./util";
 
 export type VoteDateFormat =
   `${string}-${Month}-${Day}`;
-
-export type AfterWriteDate =
-  `${string}${DateSuffix}`;
 
 export type PropsWithStrictChildren<
   P,

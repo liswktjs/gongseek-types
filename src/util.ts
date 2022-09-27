@@ -44,11 +44,3 @@ export type Day =
   | "29"
   | "30"
   | "31";
-
-export type DateSuffix =
-  | "방금"
-  | "분전"
-  | "시간전"
-  | "일전"
-  | "달전"
-  | "년전";
