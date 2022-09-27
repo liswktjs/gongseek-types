@@ -1,6 +1,6 @@
 {
   "name": "gongseek-types",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "공식 타입 유틸입니다",
   "main": "lib/index.ts",
   "types": "lib/index.d.ts",
